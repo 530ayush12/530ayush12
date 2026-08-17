@@ -82,11 +82,15 @@ AI-powered math practice built around fresh questions, customizable learning mod
 #### SereneQuests
 A polished SwiftUI wellness experience built around personalized quests, guided exercises, progress, and healthy routines.
 
+#### Meritwise
+A modern platform showcasing innovative iOS apps, including GeniusMath AI and SereneQuests, built to make learning and everyday life smarter.
+
 #### DitherStudio
 A visual web tool for experimenting with image dithering directly in the browser.
 
 #### Lotus
 My current AI-first web product — focused on making the path from prompt to working website much faster.
+
 
 ---
 
